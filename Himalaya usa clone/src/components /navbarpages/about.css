@@ -1,0 +1,120 @@
+.about{
+    border: 1px solid green;
+    height: 400px;
+    width: 100%;
+    margin-top: 40px;
+    background-image: url("https://i.shgcdn.com/f95290db-d02e-433c-9564-4766788d684c/-/format/auto/-/preview/3000x3000/-/quality/lighter/");
+    background-size: cover;
+        background-repeat: no-repeat;
+        /* background-attachment:fixed ; */
+        background-position: center bottom;
+}
+.about h1{
+    text-align: center;
+    margin-top: 110px;
+    font-size: 50px;
+    color: white;
+    font-family: Poppins, sans-serif;
+}
+.about h1 span{
+    font-weight: bold;
+}
+.about p{
+    text-align: center;
+    font-size: 25px;
+        color: white;
+        font-weight: bold;
+        font-family:Poppins, sans-serif;
+}
+.story{
+    border: 1px solid black;
+    height: 70px;
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1%;
+    
+}
+.Btn{
+    border: 1px solid green;
+height: 50px;
+width: 22%;
+gap: 10%;
+
+}
+.our{
+    border: 1px solid black;
+        height: 900px;
+        width: 90%;
+            margin: auto;
+            margin-top: 10px;
+            display: flex;
+            justify-content: space-around;
+}
+.our1{
+    border: 1px solid black;
+        height: 90%;
+        width: 47%;
+        
+        margin-top: 10px;
+}
+
+.our1 img{
+    height: 100%;
+    width: 100%;
+}
+.our1 h1{
+    font-size: 26px;
+    font-weight: bold;
+    font-family:Poppins, sans-serif;
+    color:#006666;
+    margin-left: 10px;
+}
+
+.our1 p{
+    font-size: 16px;
+
+    color: #333333;
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+.years{
+    border: 1px solid black;
+    height: 465px;
+        width: 90%;
+        margin: auto;
+        margin-top: 10px;
+        display: flex;
+        justify-content: space-around;
+}
+
+.years1{
+    border: 1px solid black;
+        height: 90%;
+        width: 47%;
+}
+
+.years1 h1{
+    font-size: 26px;
+        font-weight: bold;
+        font-family: Poppins, sans-serif;
+        color: #006666;
+        margin-left: 10px;
+}
+
+.years1 p{
+    font-size: 16px;
+        color: #333333;
+        margin-top: 20px;
+        margin-left: 10px;
+        font-family: Poppins,
+            sans-serif;
+}
+
+.years1 img{
+    height: 100%;
+    width: 100%;
+}

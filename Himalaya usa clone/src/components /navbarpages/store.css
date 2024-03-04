@@ -1,0 +1,16 @@
+
+
+.store{
+    border: 1px solid green;
+    height: 900px;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+.store h1{
+    font-size: 46px;
+    color: #333333;
+    
+}
